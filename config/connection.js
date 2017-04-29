@@ -13,7 +13,7 @@ else
 		host: 'localhost',
 		user: 'root',
 		password: 'pikachu',
-		database: 'burger_db'
+		database: 'burgers_db'
 	});
 };
 
